@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PropsSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 050b50b554ecf8c4e94bf2e41e3e6aca, type: 3}
+    - {fileID: 102900000, guid: f92097af3d1964b45b0cfdf7e05f2d99, type: 3}
+    - {fileID: 102900000, guid: 6a08f475f7472ce439e2ab72de89297e, type: 3}
+    - {fileID: 102900000, guid: 694fd0d7737c817409db777151c3eee4, type: 3}
+    - {fileID: 102900000, guid: f10825f9cfa1aee4a8757c2534391955, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ed7295014d4f15149879bc7b1c20b8da, type: 3}
+  - {fileID: 21300000, guid: b6cf74a134352154ca9f7484ba948bd4, type: 3}
+  - {fileID: 21300000, guid: b874cde147ae35342893a0a953ce6c99, type: 3}
+  - {fileID: 21300000, guid: b039b312ab530aa4ab669e8253f43700, type: 3}
+  - {fileID: 21300000, guid: 097cb7723c852444fabc9f2b7b4c5728, type: 3}
+  - {fileID: 21300000, guid: 0a2e9c648a618ca42abd75530812b504, type: 3}
+  - {fileID: 21300000, guid: 9d89d105029dde94eaf0ada82c45c2ed, type: 3}
+  - {fileID: 21300000, guid: 8328ee06808583c40a92ea03af53f9cd, type: 3}
+  - {fileID: 21300000, guid: 093f9936a9c28bc4187d18d8863a05d2, type: 3}
+  - {fileID: 21300000, guid: b3ba3356d42b2094dbe101977ccc8bba, type: 3}
+  - {fileID: 21300000, guid: 5cbaab86f52c66746ba0047c04f7db4f, type: 3}
+  - {fileID: 21300000, guid: cd884378983d33241bc8b532c38e0659, type: 3}
+  - {fileID: 21300000, guid: 1fecd0c8934125148b4f6a384972ecc8, type: 3}
+  - {fileID: 21300000, guid: a9c21889d5a59db4da68cc47bd851438, type: 3}
+  - {fileID: 21300000, guid: 5fe918e95243de54dbebdbb95ff7e084, type: 3}
+  - {fileID: 21300000, guid: b94d9a3ab42094a4cb7eaffa45b714e4, type: 3}
+  - {fileID: 21300000, guid: aa0c562cb0dd86846b12af6d31a84742, type: 3}
+  - {fileID: 21300000, guid: a33a393c28a12c545832ba404e4a26fe, type: 3}
+  - {fileID: 21300000, guid: 39f7f96d0c673fd4896498052a408fa1, type: 3}
+  - {fileID: 21300000, guid: 85fd679d48549a743a2e78ecd87a9ceb, type: 3}
+  - {fileID: 21300000, guid: 0cdbf6dea0439674196148eee9505bc5, type: 3}
+  - {fileID: 21300000, guid: cb2489dead4b6d64da1e9125569bb005, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Signs_48
+  - Flora_29
+  - Collectibles_22
+  - Signs_43
+  - Flora2_39
+  - Flora2_08
+  - PowerUps_04
+  - Flora2_43
+  - Rocks_06
+  - Collectibles_01
+  - Collectibles_75
+  - PowerUps_03
+  - Signs_52
+  - PowerUps_05
+  - Rocks_07
+  - Signs_50
+  - Collectibles_77
+  - Flora2_17
+  - Signs_51
+  - PowerUps_06
+  - Flora2_07
+  - Flora_01
+  m_RenderDataMap: {}
+  m_Tag: PropsSpriteAtlas
+  m_IsVariant: 0

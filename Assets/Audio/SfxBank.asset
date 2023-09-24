@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 523f7cada96bd01479eb61930faaf989, type: 3}
+  m_Name: SfxBank
+  m_EditorClassIdentifier: 
+  items:
+  - {fileID: 11400000, guid: c0bf8463106836c468b03cc5c27b892c, type: 2}
+  - {fileID: 11400000, guid: 08f06a8cfb7ea184f9b1f2494755e983, type: 2}
+  - {fileID: 11400000, guid: 60e5c8867f78a6c468f3181ce3725102, type: 2}
+  - {fileID: 11400000, guid: 8488f5ca82595004589137261cdc7d4f, type: 2}
